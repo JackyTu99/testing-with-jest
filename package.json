@@ -1,0 +1,30 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "A Jest + npm lab session",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elliott0121/testing-with-jest.git"
+  },
+  "author": "Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elliott0121/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/Elliott0121/testing-with-jest#readme",
+  "dependencies": {
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
